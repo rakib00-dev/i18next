@@ -8,18 +8,18 @@ i18next
   .use(initReactI18next)
   .init({
     debug: true,
-
+    fallbackLng: 'en',
     resources: {
       en: {
         translation: {
           greeting: 'Hello, Welcome',
         },
       },
-      fr: {
-        translation: {
-          greeting: 'Bonjour, Bienvenue',
-        },
-      },
+      // fr: {
+      //   translation: {
+      //     greeting: 'Bonjour, Bienvenue',
+      //   },
+      // },
       hi: {
         translation: {
           greeting: 'नमस्ते, स्वागत है',
