@@ -1,0 +1,7 @@
+{
+  "greeting": "你好，欢迎",
+  "description": {
+    "line1": "Masud，你什么时候会好起来？ <1>{{channel}}</1>",
+    "line2": "这是一个国际化教程"
+  }
+}
