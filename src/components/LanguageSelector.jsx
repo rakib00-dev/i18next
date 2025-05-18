@@ -8,8 +8,8 @@ const LanguageSelector = () => {
     { code: 'hi', lang: 'Hindi' },
     { code: 'bn', lang: 'Bangla' },
     { code: 'ar', lang: 'Arabic' },
-    { code: 'zh', lang: 'Chinease' },
-    { code: 'ja', lang: 'Japanease' },
+    { code: 'zh', lang: 'Chinese' },
+    { code: 'ja', lang: 'Japanese' },
     { code: 'ko', lang: 'Korean' },
   ];
 
