@@ -1,5 +1,5 @@
 import { Trans, useTranslation } from 'react-i18next';
-import LanguageSelector from './components/languageSelector';
+import LanguageSelector from './components/LanguageSelector';
 import './App.css';
 
 function App() {
