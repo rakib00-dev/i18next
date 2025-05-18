@@ -16,7 +16,7 @@ function App() {
         <Trans
           i18nKey={line1}
           values={{ channel: 'Rakib' }}
-          components={{ 1: <b></b> }}
+          components={{ 1: <b /> }}
         ></Trans>
       </span>
       <span>{line2}</span>

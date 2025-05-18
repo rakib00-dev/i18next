@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour, Bienvenue",
+  "description": {
+    "line1": "Masud, quand allez-vous guérir ? <1>{{channel}}</1>",
+    "line2": "Ceci est un tutoriel d'internationalisation"
+  }
+}
