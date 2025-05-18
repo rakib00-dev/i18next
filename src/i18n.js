@@ -15,7 +15,7 @@ i18next
         translation: {
           greeting: 'Hello, Welcome',
           description: {
-            line1: 'Masud, when will you get well? {{channel}}',
+            line1: 'Masud, when will you get well? <1>{{channel}}</1>',
             line2: 'This is an Internationalisation Tutorial',
           },
         },
@@ -24,7 +24,7 @@ i18next
         translation: {
           greeting: 'Bonjour, Bienvenue',
           description: {
-            line1: 'Masud, quand allez-vous guérir ? {{channel}}',
+            line1: 'Masud, quand allez-vous guérir ? <1>{{channel}}</1>',
             line2: "Ceci est un tutoriel d'internationalisation",
           },
         },
@@ -33,7 +33,7 @@ i18next
         translation: {
           greeting: 'नमस्ते, स्वागत है',
           description: {
-            line1: 'मासूद, आप ठीक कब होंगे? {{channel}}',
+            line1: 'मासूद, आप ठीक कब होंगे? <1>{{channel}}</1>',
             line2: 'यह एक अंतरराष्ट्रीयकरण ट्यूटोरियल है',
           },
         },
@@ -42,7 +42,7 @@ i18next
         translation: {
           greeting: 'হ্যালো, স্বাগতম',
           description: {
-            line1: 'মাসুদ, আপনি ভালো হবেন কবে? {{channel}}',
+            line1: 'মাসুদ, আপনি ভালো হবেন কবে? <1>{{channel}}</1>',
             line2: 'এটি একটি আন্তর্জাতিককরণ টিউটোরিয়াল',
           },
         },
@@ -52,7 +52,7 @@ i18next
           greeting: 'مرحباً، أهلا بك!',
           description: {
             line1: 'يا مسعود، متى ستشفى؟',
-            line2: 'هذا هو البرنامج التعليمي للتدويل {{channel}}',
+            line2: 'هذا هو البرنامج التعليمي للتدويل <1>{{channel}}</1>',
           },
         },
       },
@@ -60,7 +60,7 @@ i18next
         translation: {
           greeting: '你好，欢迎',
           description: {
-            line1: 'Masud，你什么时候会好起来？ {{channel}}',
+            line1: 'Masud，你什么时候会好起来？ <1>{{channel}}</1>',
             line2: '这是一个国际化教程',
           },
         },
@@ -69,7 +69,7 @@ i18next
         translation: {
           greeting: 'こんにちは、ようこそ',
           description: {
-            line1: 'マスードさん、いつ良くなりますか？ {{channel}}',
+            line1: 'マスードさん、いつ良くなりますか？ <1>{{channel}}</1>',
             line2: 'これは国際化チュートリアルです',
           },
         },
@@ -78,7 +78,7 @@ i18next
         translation: {
           greeting: '안녕하세요, 환영합니다',
           description: {
-            line1: '마수드, 언제쯤 건강해질 거예요? {{channel}}',
+            line1: '마수드, 언제쯤 건강해질 거예요? <1>{{channel}}</1>',
             line2: '이것은 국제화 튜토리얼입니다',
           },
         },
