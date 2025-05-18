@@ -6,8 +6,8 @@ const LanguageSelector = () => {
     { code: 'en', lang: 'English' },
     { code: 'fr', lang: 'French' },
     { code: 'hi', lang: 'Hindi' },
-    { code: 'bn', lang: 'bangla' },
-    { code: 'ar', lang: 'arabic' },
+    { code: 'bn', lang: 'Bangla' },
+    { code: 'ar', lang: 'Arabic' },
   ];
 
   const changeLanguage = (code) => {
