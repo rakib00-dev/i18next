@@ -47,5 +47,14 @@ i18next
           },
         },
       },
+      ar: {
+        translation: {
+          greeting: 'مرحباً، أهلا بك!',
+          description: {
+            line1: 'أنت تشاهد قناة RoadsideCoder على اليوتيوب',
+            line2: 'هذا هو البرنامج التعليمي للتدويل',
+          },
+        },
+      },
     },
   });
